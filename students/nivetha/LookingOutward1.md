@@ -1,6 +1,6 @@
 ## Looking Outwards 01
 
-*Nivetha Kannan, September 6 2015*
+*Nivetha Kannan, September 6, 2015*
 
 ### Live2D
 
