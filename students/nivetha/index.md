@@ -1,4 +1,4 @@
-# Your Name
+# Nivetha Kannan
 
 ### About Me
 
