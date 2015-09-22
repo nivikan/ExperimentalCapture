@@ -37,7 +37,8 @@ which- was more exciting for us- due to our limited time. We originally wanted t
 quickly realized it would require much more work on algorithms and processing of the original thumb print. Had we succeeded 
 in implementing our original idea, the gameplay of the program would be much more compelling.
 
-<iframe src="https://player.vimeo.com/video/140113281" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/140113281">Thumb Prints Prints and More Prints</a> from <a href="https://vimeo.com/user16230218">Nivetha Kannan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[![Thumb Print Documentation](https://vimeo.com/140113281)](https://vimeo.com/140113281)
 
+<iframe src="https://player.vimeo.com/video/140113281" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/140113281">Thumb Prints Prints and More Prints</a> from <a href="https://vimeo.com/user16230218">Nivetha Kannan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
