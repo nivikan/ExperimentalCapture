@@ -19,7 +19,7 @@ trace their prints as closely as possible within a certain time period. As it is
 
 --
 
-![Code](https://cloud.githubusercontent.com/assets/11213236/10031650/7a694d58-614c-11e5-92dc-afafc8e2d04b.png "Code" width="600" height="400")<br/>
+![Code](https://cloud.githubusercontent.com/assets/11213236/10031650/7a694d58-614c-11e5-92dc-afafc8e2d04b.png "Code" width="200" height="400")<br/>
 ![The Game](https://cloud.githubusercontent.com/assets/11213236/10031675/97b7cd12-614c-11e5-8dac-87c4f2da9a84.png "The Game" width="600" height="400")<br/>
 ![Final Print](https://cloud.githubusercontent.com/assets/11213236/10031565/0d014202-614c-11e5-9b59-a17cae7b927a.png "Final Print" width="600" height="400")<br/>
 
