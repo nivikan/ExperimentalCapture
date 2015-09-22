@@ -6,8 +6,7 @@
 ![Title Picture](images/thumbTitlePic.png)<br /> 
 
 ###About
-This project deals with the most incriminating thing a person always carries… thumb prints. On a larger note, it deals 
-with translation or the error in capture.
+Ever done something embarrasing? Been somewhere you regretted? Well, let me assure you, you're figerprints were all over the scene of the crime.
 
 --
 
@@ -16,8 +15,7 @@ We start from the oldest form of photography- traditional printmaking. Users tak
 traditional ink pad and paper. They then scan the print using a digital scanner at 600 dpi - a digital capture. After, users 
 bring the print into the “Thumb Prints” processing sketch where the program- using the free library OpenCv- captures and 
 translatess the image yet again. Users can then explore and play with their thumb prints in a game that challenges them to 
-trace their prints as closely as possible within a certain time period. In the end, users will receive a one-of-a-kind 
-thumbprint as a .tif file. 
+trace their prints as closely as possible within a certain time period. As it is a race against the clock, the game experience is frustrating.. embarrasing even. In the end, users will receive a one-of-a-kind print as a .tif file to serve as a reminder of this ordeal. 
 
 --
 
