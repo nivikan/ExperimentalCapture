@@ -32,7 +32,7 @@ which- was more exciting for us- due to our limited time. We originally wanted t
 quickly realized it would require much more work on algorithms and processing of the original thumb print. Had we succeeded 
 in implementing our original idea, the gameplay of the program would be much more compelling.
 
-[![Thumb Print Documentation](link)](link)
+[![Thumb Print Documentation](https://vimeo.com/140113281)](https://vimeo.com/140113281)
 
 
 
