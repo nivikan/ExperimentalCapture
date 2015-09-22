@@ -3,7 +3,7 @@
 
 --
 
-![Title Picture](images/thumbTitlePic.png)<br /> 
+![Title Picture](images/thumbTitlePic.png "Title Picture")<br /> 
 
 ###About
 Ever done something embarrassing? Been somewhere you regretted? Well, let me assure you, your fingerprints were all over the scene of the crime.
@@ -19,7 +19,8 @@ trace their prints as closely as possible within a certain time period. As it is
 
 --
 
-![Summary Of Process](images/thumbPrintSum.png)<br /> 
+![Summary Of Process](images/thumbPrintSum.png "Summary Of Process")
+
 
 --
 
