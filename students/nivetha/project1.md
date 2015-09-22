@@ -36,7 +36,9 @@ other influenced by both computer and human error. However, we did have to bring
 which- was more exciting for us- due to our limited time. We originally wanted to create a maze from the thumbprint but 
 quickly realized it would require much more work on algorithms and processing of the original thumb print. Had we succeeded 
 in implementing our original idea, the gameplay of the program would be much more compelling.
-
+<br/>
+<br/>
+###Video Documentation
 <iframe src="https://player.vimeo.com/video/140113281" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/140113281">Thumb Prints Prints and More Prints</a> from <a href="https://vimeo.com/user16230218">Nivetha Kannan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br/>
 <a href="https://vimeo.com/140113281" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/10032925/4a1a7070-6154-11e5-884b-14a67c537575.png" 
