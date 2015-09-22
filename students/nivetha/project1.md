@@ -19,7 +19,7 @@ trace their prints as closely as possible within a certain time period. As it is
 
 --
 
-![Summary Of Process](images/thumbPrintSum.png "Summary Of Process")
+![Summary Of Process](https://cloud.githubusercontent.com/assets/11213236/10031565/0d014202-614c-11e5-9b59-a17cae7b927a.png "Summary Of Process")
 
 
 --
