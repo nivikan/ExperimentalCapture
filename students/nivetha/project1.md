@@ -1,5 +1,5 @@
 #Thumb Prints, Prints, and More Prints
-##A project by Eric Yu and Nivetha 
+##A project by Eric Yu and Nivetha Kannan
 
 --
 
