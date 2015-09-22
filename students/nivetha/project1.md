@@ -13,9 +13,9 @@ with translation or the error in capture.
 
 ###Summary
 We start from the oldest form of photography- traditional printmaking. Users take a clean print of their thumb using a 
-traditional ink pad and paper. They then scan the print using a digital scanner at 600 dpi - a digital capture. Users then 
+traditional ink pad and paper. They then scan the print using a digital scanner at 600 dpi - a digital capture. After, users 
 bring the print into the “Thumb Prints” processing sketch where the program- using the free library OpenCv- captures and 
-translates the image yet again. Users can then explore and play with their thumb prints in a game that challenges them to 
+translatess the image yet again. Users can then explore and play with their thumb prints in a game that challenges them to 
 trace their prints as closely as possible within a certain time period. In the end, users will receive a one-of-a-kind 
 thumbprint as a .tif file. 
 
