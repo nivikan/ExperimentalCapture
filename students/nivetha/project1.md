@@ -6,16 +6,16 @@
 ![Title Picture](images/thumbTitlePic.png)<br /> 
 
 ###About
-Ever done something embarrasing? Been somewhere you regretted? Well, let me assure you, you're figerprints were all over the scene of the crime.
+Ever done something embarrassing? Been somewhere you regretted? Well, let me assure you, your fingerprints were all over the scene of the crime.
 
 --
 
 ###Summary
 We start from the oldest form of photography- traditional printmaking. Users take a clean print of their thumb using a 
-traditional ink pad and paper. They then scan the print using a digital scanner at 600 dpi - a digital capture. After, users 
+traditional ink pad and paper. They then scan the print using a digital scanner at 600 dpi - a digital capture. Later, users 
 bring the print into the “Thumb Prints” processing sketch where the program- using the free library OpenCv- captures and 
 translatess the image yet again. Users can then explore and play with their thumb prints in a game that challenges them to 
-trace their prints as closely as possible within a certain time period. As it is a race against the clock, the game experience is frustrating.. embarrasing even. In the end, users will receive a one-of-a-kind print as a .tif file to serve as a reminder of this ordeal. 
+trace their prints as closely as possible within a certain time period. As it is a race against the clock, the game experience is frustrating.. embarrassing even. In the end, users will receive a one-of-a-kind print as a .tiff file to serve as a reminder of this ordeal. 
 
 --
 
