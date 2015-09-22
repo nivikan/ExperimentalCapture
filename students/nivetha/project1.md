@@ -38,10 +38,6 @@ quickly realized it would require much more work on algorithms and processing of
 in implementing our original idea, the gameplay of the program would be much more compelling.
 
 [![Thumb Print Documentation](https://vimeo.com/140113281)](https://vimeo.com/140113281)
-
-<iframe src="https://player.vimeo.com/video/140113281" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/140113281">Thumb Prints Prints and More Prints</a> from <a href="https://vimeo.com/user16230218">Nivetha Kannan</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-
 <a href="https://vimeo.com/140113281" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/10032925/4a1a7070-6154-11e5-884b-14a67c537575.png" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" /></a>
 
