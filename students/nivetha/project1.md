@@ -3,7 +3,7 @@
 
 --
 
-![Title Picture](images/thumbTitlePic.png "Title Picture")<br /> 
+![Title Picture](https://cloud.githubusercontent.com/assets/11213236/10031598/3a4ccd44-614c-11e5-8b3d-d45d65cae25b.JPG "Title Picture")<br /> 
 
 ###About
 Ever done something embarrassing? Been somewhere you regretted? Well, let me assure you, your fingerprints were all over the scene of the crime.
@@ -19,7 +19,11 @@ trace their prints as closely as possible within a certain time period. As it is
 
 --
 
-![Summary Of Process](https://cloud.githubusercontent.com/assets/11213236/10031565/0d014202-614c-11e5-9b59-a17cae7b927a.png "Summary Of Process")
+![Code](https://cloud.githubusercontent.com/assets/11213236/10031650/7a694d58-614c-11e5-92dc-afafc8e2d04b.png "Code")<br/>
+![The Game](https://cloud.githubusercontent.com/assets/11213236/10031675/97b7cd12-614c-11e5-8dac-87c4f2da9a84.png "The Game")<br/>
+![Final Print](https://cloud.githubusercontent.com/assets/11213236/10031565/0d014202-614c-11e5-9b59-a17cae7b927a.png "Final Print")<br/>
+
+
 
 
 --
