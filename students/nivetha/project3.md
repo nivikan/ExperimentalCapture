@@ -3,7 +3,7 @@
 
 --
 
-![Title Picture](https://cloud.githubusercontent.com/assets/11213236/11220768/756b72ae-8d2f-11e5-9213-0f1ec0b16a88.jpg "Title Picture")<br /> 
+![Title Picture](https://cloud.githubusercontent.com/assets/11213236/11230013/0bebc31c-8d69-11e5-8ddb-feeda000c186.png "Title Picture")<br /> 
 
 ### About
 About walking
