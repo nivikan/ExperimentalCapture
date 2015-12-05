@@ -7,6 +7,15 @@
 ![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11605538/670c8fdc-9ad0-11e5-8805-0008bbded614.gif "Sup Picture")<br /> 
 
 --
+
+--
+
+##Informational Video
+<a href="https://www.youtube.com/watch?v=nbcnRgVNsZk" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11605721/a074fc56-9ad4-11e5-803d-eaee4282483a.png" width="720" height="450" border="10" /></a>
+
+
+--
+
 ###What is it?
 The skanect is a easy to use attachment for an ipad. The hardware allows you to use your ipad's camera to scan various items as 
 well as full rooms. The program requires a number of apps - the main being the skanect scanner, structure, fetch, and room capture. 
@@ -56,27 +65,38 @@ use it in real time in a game environment using a unity plugin allowing experiem
 
 <br><br><br>
 1) Create a separate WIFI network from your computer and connect the ipad to that network in its wifi settings (on mac: click the wifi icon and go down to where it says 'Create Network..."). This makes it easier for the app and the computer to connect.
+<br><br>
+<img src="https://cloud.githubusercontent.com/assets/11213236/11605620/cd2f1b70-9ad2-11e5-8726-0e6c60a997dc.png" width="300">
+
+<img src="https://cloud.githubusercontent.com/assets/11213236/11605621/cfc3d1a0-9ad2-11e5-9a0e-177afc9c52b3.png" width="300">
+
+<img src="https://cloud.githubusercontent.com/assets/11213236/11605622/d290be70-9ad2-11e5-8015-33dd173e477a.PNG" width="300">
+<br> 
 2)Plug in your skanect and open the "structure" app on the ipad.
 <br><br>
-2) You should see teh word 'uplink' on the right-hand side. If not, try creating another network on a different channel and connecting to that. Double check that both your laptop and ipad are on the same network.
-<br><br>
-3) Once the 'uplink' button appears, set it to active. Download skanect desktop application on your laptop and open it. It should say 'lnked' under "structure Sensor" at the top right corner.
-<br><br>
-4) Adjust the setting of your first scan to what you want (ex: define that the scan is a room if you are scanning a room). Then click "Start"
+2) You should see the word 'uplink' on the right-hand side. If not, try creating another network on a different channel and connecting to that. Double check that both your laptop and ipad are on the same network.
+<br>
+<br> 
+3) Once the 'uplink' button appears, set it to active. Download skanect desktop application on your laptop and open it. It should say 'lnked' under "structure Sensor" at the top right corner. The icon should be green as indicated in teh following picture.
+<br><img src="https://cloud.githubusercontent.com/assets/11213236/11605666/b44c121a-9ad3-11e5-97cc-80b614b04c97.png">
+<br>
+4) Adjust the settings of your first scan to what you want (ex: define that the scan is a room if you are scanning a room). Then click "Start"
 <br><br>
 5) Start moving around the room slowly trying to fill in all the gaps in the mesh and pausing when the app prompts you to. You should see your mesh in both the ipad display and the Laptop display. 
 <br><br>
 6) Hit reconstruct when you're done and th app will allow you to view your model. Continue to Process where you will be able to adjust/fix your mesh with things like filling in holes and cropping. 
-<br><br>
+<br><img src="https://cloud.githubusercontent.com/assets/11213236/11605670/ba74ccb8-9ad3-11e5-97b5-af294315f88e.png">
+<br>
 7) Continue to "Share" to save or export your model. You're done!
 <br>
 
 --
+## Other things you can do with the skanect
+![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11605698/29118cce-9ad4-11e5-80b7-4ca488134b83.png "Sup Picture")<br /> 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11605605/5feef59e-9ad2-11e5-9b2d-69d6e6e809f2.PNG "Sup Picture")<br /> 
+![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11605702/2f3a52b6-9ad4-11e5-82b8-3f6e935f4c6d.png "Sup Picture")<br /> 
 
-![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11321764/74681e8a-9099-11e5-918e-37040b2f9d5b.png "Sup Picture")<br /> 
-
+![supplementPicture](https://cloud.githubusercontent.com/assets/11213236/11605708/4dd75d9a-9ad4-11e5-9c96-d8e5ec9c3a85.png "Sup Picture")<br /> 
 
 --
 <br>
@@ -85,4 +105,6 @@ use it in real time in a game environment using a unity plugin allowing experiem
 [First-use tutorial provided by Structure company] (http://structure.io/getstarted/first-use) <br>
 <br>
 [Individual App tutorial provided by University of Illinois School of Art and Design] (http://www.art.illinois.edu/content/resources/computer-labs/structuresensor.pdf) <br>
+<br>
+[Gallery of 3D scans using the skanect] (http://skanect.occipital.com/sample-models/) <br>
 <br>
