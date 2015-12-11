@@ -1,4 +1,4 @@
-#Seeing Me
+#The Things Around Me
 ##A project by Nivetha Kannan
 
 --
@@ -6,17 +6,8 @@
 ![Title Picture](https://cloud.githubusercontent.com/assets/11213236/11676648/76a21338-9e02-11e5-9a1c-928ab431ed8b.png "Title Picture")<br /> 
 
 ### About
-“Seeing me” is a self portrait conveying my experiences in my independent home life. 
+“The Things Around Me” is portrait of the world captured from objects around my home. 
 
---
-
-### Project Promo(Video)
-<a href="https://vimeo.com/148311280" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11676747/cc58f1b0-9e03-11e5-95f1-b4603e3f48d0.png" width="720" height="450" border="10" /></a>
-
---
-
-### Summary
-This uses multiple 360 videos shot from the viewpoint of objects around my house. Each object is one that I use often and, thus, are objects that 'know' me very well. This project puts viewers into the headspace of several objects in my apartment watching me in the setting and in the way they are used to - watching me progress in the mundane routines I am used to - brushing my teeth, organizing my space, changing clothes, etc. This project uses 360 videos to allow viewers to watch my mundane home experiences through the eyes and headspace of several different objects. The data presented in this project is second to the actual experience of the piece. As the subject of the piece I feel the largest point of interest for me is actually experiencing myself from the head of my objects ( I have to say, my objects must think I’m a grumpy, sad, lonely person) as well as an analysis of how I seem when I am in my home and performing mundane activities. Users Experience the peice through an ipad which they must move around to see the 360 video. this physicallity of the interaction and the unqueness of the experience allows viewers to really put themselves into the experience and relate to these objects in another level. Moreover, after watching the entire library of videos, users gain a new but still distant understanding of me personally.
 
 --
 
@@ -28,6 +19,21 @@ This uses multiple 360 videos shot from the viewpoint of objects around my house
 <a href="https://www.youtube.com/watch?v=e9VJVj-yXRs"><img src="https://cloud.githubusercontent.com/assets/11213236/11676594/cfa21bfa-9e01-11e5-9be1-eaeceadca98b.png" width="400" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=REKvCg7V3UQ" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11676595/d0f6845a-9e01-11e5-912a-c92eb354dc0c.png" width="400" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=0hQrNkZTl0s" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11676596/d2761a7a-9e01-11e5-8305-2d21b40d8516.png" width="400" border="10" /></a>
+
+
+--
+
+
+
+### Project Promo(Video)
+<a href="https://vimeo.com/148311280" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11213236/11676747/cc58f1b0-9e03-11e5-95f1-b4603e3f48d0.png" width="720" height="450" border="10" /></a>
+
+--
+
+### Summary
+ This project uses multiple 360 videos shot from the viewpoint of objects around my house. I was interested in the personification of inanimate objects to viewers and set out to explore their perception of the world through this project. Each object is one that I use often - objects that I should get to know better. This project puts viewers into the headspace of these objects in my apartment watchingwatching the world in the position and in the way they are used to. Users will interact with this project through 360 youtube videos using an iPad. This way, users will be forced to move around as they view the space, thereby, becoming an active member in the peice. <br>
+ The data presented in this project is second to the actual experience of the piece. I feel the largest point of interest for me is actually experiencing the world from the head of objects which I use on a daily basis. 
+
 
 --
 
